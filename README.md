@@ -1,6 +1,8 @@
 # E-Commerce
 Product analytics, developed go-to-market strategy. Tableau is used for summary of the visualizations
 
+# [Tableau Visualizations](https://public.tableau.com/app/profile/selin5625#!/)
+
 # Product Sales 
 
 analyse these sales informations and find out key insights from user behaviour. 
